@@ -1,0 +1,27 @@
+# view res/layout/activity_main.xml #generated:69
+-keep class android.support.v4.view.ViewPager { <init>(...); }
+
+# view AndroidManifest.xml #generated:29
+-keep class com.example.shopmanagement.setting.AccountActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:31
+-keep class com.example.shopmanagement.setting.ChangePwdActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:33
+-keep class com.wpq.animation.BudgetPieChart { <init>(...); }
+
+# view AndroidManifest.xml #generated:37
+-keep class com.wpq.animation.LoadingActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:27
+-keep class com.wpq.animation.MainActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:25
+-keep class com.wpq.animation.Purchases { <init>(...); }
+
+# view AndroidManifest.xml #generated:16
+-keep class com.wpq.animation.WelcomeActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:35
+-keep class org.achartengine.GraphicalActivity { <init>(...); }
+

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="lightwhite">#ddd</color>
+    <color name="white">#fff</color>
+    <color name="blue">#4169e1</color>
+    <color name="black">#000</color>
+    <color name="anhui">#808080</color>
+    <color name="anzi">#e6e6fa</color>
+    <color name="lightgray">#CCCCCC</color>
+</resources>
